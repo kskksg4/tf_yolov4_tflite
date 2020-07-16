@@ -1,0 +1,6 @@
+checkpoints/*
+data/yolov4.weights
+result.png
+result-int8.png
+.DS_store
+__pycache__
